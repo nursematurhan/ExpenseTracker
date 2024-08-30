@@ -14,4 +14,4 @@
   <li>After Login; Dashboard, Categories, Transactions menus.</li>
 </ul>
 
-08.2023
+-- August 2023
